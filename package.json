@@ -9,7 +9,11 @@
     "start": "gulp serve",
     "all": "gulp all"
   },
+  "keywords": ["herramientas", "frontend"],
+  "bugs": "https://github.com/DanielRamosAcosta/herramientas-frontend/issues",
   "author": "DanielRamosAcosta",
+  "repository": "https://github.com/DanielRamosAcosta/herramientas-frontend",
+  "homepage": "https://github.com/DanielRamosAcosta",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.3",

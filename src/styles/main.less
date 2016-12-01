@@ -1,5 +1,7 @@
 @import 'node_modules/flexboxgrid/css/index.css';
 
+@prueba: #ff64b4;
+
 header {
   text-align: center;
 }
@@ -13,5 +15,13 @@ header {
 .post {
   span {
     font-weight: bold;
+  }
+}
+
+#ajax {
+  background-color: fade(@prueba, 20%);
+
+  .post {
+    color: darken(@prueba, 50%);
   }
 }

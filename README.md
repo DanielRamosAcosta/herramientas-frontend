@@ -1,6 +1,6 @@
 # Herramientas de front-end
 
-Este repositorio es un ejemplo de cómo juntar distintas herramientas usadas para la programación web de front-end, basado en la [presentación](https://manzdev.github.io/frontend-el-lado-oscuro) de @ManzDev. Se trata de una implenetación cercana al ecosistema Gulp de [esta](https://manzdev.github.io/frontend-el-lado-oscuro/#/gulpjs-ecosystem) diapositiva.
+Este repositorio es un ejemplo de cómo juntar distintas herramientas usadas para la programación web de front-end, basado en la [presentación](https://manzdev.github.io/frontend-el-lado-oscuro) de [@ManzDev](https://github.com/ManzDev). Se trata de una implenetación cercana al ecosistema Gulp de [esta](https://manzdev.github.io/frontend-el-lado-oscuro/#/gulpjs-ecosystem) diapositiva.
 
 ## Preprocesado
 

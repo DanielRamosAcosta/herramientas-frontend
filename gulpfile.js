@@ -86,7 +86,7 @@ const serve = () => {
   watch('dist/*').on('change', browserSync.reload)
 }
 
-const deploy = () => src('dist/*').pipe(ghPages())
+const deploy = () => src('dist/**/*').pipe(ghPages())
 
 const all = series(clean, build, deploy)
 
@@ -97,4 +97,5 @@ module.exports = {
   build,
   serve: series(build, serve),
   deploy,
+  all
 }
